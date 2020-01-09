@@ -17,7 +17,7 @@ All you need to do is placing a placeholder(`<!-- toc -->`) in your post when an
 ## Install
 
 ```node
-npm install hexo-toc --save
+npm install hexo-toc-ext-d --save
 ```
 
 ## Options
